@@ -6,15 +6,10 @@ Repositório foi criado com o intuito de assistir e estudar o conteúdo sobre re
 
 Desenvolvimento do aplicativo move it
 
-## Tecnologias Estudadas
 
+## Para Acessar o site
 
-
-## Requisitos para rodar o projeto
-
-
-
-## Como rodar o projeto
+https://moveit-steel-omega.vercel.app/
 
 
 
@@ -45,5 +40,5 @@ Começando a milha extra
 - [x] Icones nos botões
 - [x] Storage Via Cookies
 - [x] Modal de Level UP
-- [ ] Deploy
+- [x] Deploy
 
