@@ -42,5 +42,8 @@ Começando a milha extra
 
 ## Desafios
 
+- [x] Icones nos botões
+- [x] Storage Via Cookies
+- [x] Modal de Level UP
 - [ ] Deploy
-- [x] Storage Via Cookie
+
