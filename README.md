@@ -34,6 +34,13 @@ Começando a utilizar o context do react
 
 ### Dia 4
 
+Finalizando o App
+
 ### Dia 5
 
+Começando a milha extra
 
+## Desafios
+
+- [ ] Deploy
+- [ ]
