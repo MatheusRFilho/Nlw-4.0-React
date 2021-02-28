@@ -42,3 +42,14 @@ Começando a milha extra
 - [x] Modal de Level UP
 - [x] Deploy
 
+Novos Desafios
+- [ ] Terminar o Readme
+- [ ] Estilizar para mobile  
+- [ ] Implementar pwa
+- [ ] Criar um tema Dark
+- [ ] Criar o move it 2.0 a partir do projeto do figma ( https://www.figma.com/file/0A1dlugdn1PeloKI33CO22/Move.it-2.0-(Copy)?node-id=160%3A2761 )
+-- [ ] SideBar
+-- [ ] Ranking
+-- [ ] Compartilhar nas redes sociais
+-- [ ] Modal pro Usuario delimitar o tempo
+
