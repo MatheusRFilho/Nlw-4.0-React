@@ -43,4 +43,4 @@ Começando a milha extra
 ## Desafios
 
 - [ ] Deploy
-- [ ]
+- [x] Storage Via Cookie
