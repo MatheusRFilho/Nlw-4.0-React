@@ -30,6 +30,8 @@ Comenaçando a migrar o aplicativo e usar o next.js
 
 ### Dia 3
 
+Começando a utilizar o context do react
+
 ### Dia 4
 
 ### Dia 5
